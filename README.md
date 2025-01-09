@@ -3,7 +3,8 @@
 ## English  
 
 **Overview**  
-*Embers Of The Last Pirate* is a third-person open-world action RPG developed as part of the final project for the Cross-platform Application Development Technician course (DAM). This project was created for Windows and aims to deliver an immersive gaming experience where players can explore, engage in combat, complete quests, and enhance their characters."
+*Embers Of The Last Pirate* is a third-person open-world action RPG developed as part of the final project for the Cross-platform Application Development Technician course (DAM). This project was created for Windows and aims to deliver an immersive gaming experience where players can explore, engage in combat, complete quests, and enhance their characters.
+
 **Key Features**  
 - Real-time combat system.  
 - Quest and reward system.  
