@@ -15,7 +15,8 @@ The project was built using Unreal Engine 5 and includes advanced features like 
 
 **Access**  
 Due to GitHub file size limitations, the game's executable and detailed project documentation can be downloaded from the following link:  
-[Download Embers Of The Last Pirate]([https://drive.google.com](https://drive.google.com/file/d/1Zlj3hRZvyH4ZSjKkARqzU3OyQE8dp3hb/view?usp=sharing))  
+[Download Embers Of The Last Pirate](https://drive.google.com/file/d/1Zlj3hRZvyH4ZSjKkARqzU3OyQE8dp3hb/view?usp=sharing)
+
 
 ---
 
@@ -35,4 +36,5 @@ El proyecto fue desarrollado con Unreal Engine 5 e incluye características avan
 
 **Acceso**  
 Debido a las limitaciones de tamaño de archivo en GitHub, el ejecutable del juego y la documentación completa del proyecto se pueden descargar desde el siguiente enlace:  
-[Descargar Embers Of The Last Pirate]([https://drive.google.com](https://drive.google.com/file/d/1Zlj3hRZvyH4ZSjKkARqzU3OyQE8dp3hb/view?usp=sharing))  
+[Descargar Embers Of The Last Pirate](https://drive.google.com/file/d/1Zlj3hRZvyH4ZSjKkARqzU3OyQE8dp3hb/view?usp=sharing)
+
