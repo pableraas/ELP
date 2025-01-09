@@ -9,7 +9,7 @@
 - Real-time combat system.  
 - Quest and reward system.  
 - Character progression and equipment system.  
-- Detailed open-world map with interactive elements.  
+- Detailed open-world with interactive elements.  
 
 **Technologies Used**  
 The project was built using Unreal Engine 5 and includes advanced features like Blueprints, behavior trees, animation blueprints.
@@ -30,7 +30,7 @@ Due to GitHub file size limitations, the game's executable and detailed project 
 - Sistema de combate en tiempo real.  
 - Sistema de misiones y recompensas.  
 - Progresión de personaje y equipamiento.  
-- Mapa de mundo abierto detallado con elementos interactivos.  
+- Mundo abierto detallado con elementos interactivos.  
 
 **Tecnologías Usadas**  
 El proyecto fue desarrollado con Unreal Engine 5 e incluye características avanzadas como Blueprints, árboles de comportamiento y Blueprints de animación.
